@@ -1,6 +1,6 @@
 <h1><img src="cover.png"/></h1>
 
-<b>Features</b></br>
+<b><h2>Features</h2></b></br>
 Autenticação Social OAuth2 com servidor do Discord.</br>
 Obtém perfil do usuário cadastro no Discord (username e avatar);</br>
 Lista os servidores do Discord que o usuário faz parte;</br>
@@ -10,7 +10,7 @@ Exibe se a partida foi agendada em um servidor próprio (anfitrião) ou em servi
 Compartilha o convite para ingressar no servidor do usuário;</br>
 Permite redirecionar o usuário para o seu próprio servidor;</br>
 
-<b>Tecnologias</b></br>
+<b><h2>Tecnologias</h2></b></br>
  React Native</br>
  Typescript</br>
  Expo</br>
@@ -29,6 +29,7 @@ Permite redirecionar o usuário para o seu próprio servidor;</br>
  Deep Link</br>
  
  
-é necessario criar o app no servidor do Discord para obter as credencias de autenticação, em seguida, defina no arquivo .env as configurações do seu app 
+*é necessario criar o app no servidor do Discord para obter as credencias de autenticação, em seguida, defina no arquivo .env as configurações do seu app 
 
+depois de baixar a pasta raiz e sua dependencia expo start para iniciar
  
