@@ -1,3 +1,5 @@
+<h1><img src="cover.png"/></h1>
+
 <b>Features</b></br>
 Autenticação Social OAuth2 com servidor do Discord.</br>
 Obtém perfil do usuário cadastro no Discord (username e avatar);</br>
@@ -26,19 +28,7 @@ Permite redirecionar o usuário para o seu próprio servidor;</br>
  React Native Share</br>
  Deep Link</br>
  
-🔖 Layout
-Você pode visualizar o layout do projeto através desse link. É necessário ter conta no Figma para acessá-lo.
+ 
+é necessario criar o app no servidor do Discord para obter as credencias de autenticação, em seguida, defina no arquivo .env as configurações do seu app 
 
-Executando o projeto
-Utilize o yarn ou o npm install para instalar as dependências do projeto. Em seguida, inicie o projeto.
-
-expo start
-Lembre-se de criar o seu App no servidor do Discord para obter as credencias de autenticação. Em seguida, defina no arquivo .env as configurações do seu App (remova o example do arquivo .env.example).
-
-REDIRECT_URI=
-SCOPE=
-RESPONSE_TYPE=
-CLIENT_ID=
-CDN_IMAGE=
-📄 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+ 
